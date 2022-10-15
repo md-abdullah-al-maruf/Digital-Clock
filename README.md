@@ -9,3 +9,5 @@ OR<br>
 <br>
 Clock.c file in C compiler.
 
+<h1>DEMO---------</h1>
+![clock](https://user-images.githubusercontent.com/82973846/195998651-b021463f-1815-4d0f-9160-ea283a70d714.gif)
